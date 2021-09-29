@@ -3,20 +3,20 @@
   "version": "1.0.12",
   "dependencies": {
     "etch": "edsilv/etch#old",
-    "exjs": "BSick7/exjs",
-    "extensions": "edsilv/extensions",
+    "exjs": "BSick7/exjs#0.4.0",
+    "extensions": "edsilv/extensions#0.1.9",
     "intersection": "BlokDust/intersection",
-    "key-codes": "edsilv/key-codes",
+    "key-codes": "edsilv/key-codes#0.0.5",
     "lzma": "nmrugg/LZMA-JS",
     "minerva": "~0.7.3",
-    "nullstone": "~0.4.5",
+    "nullstone": "https://github.com/wsick/nullstonejs.git#~0.4.5",
     "pixelpalette": "whitevinyl/pixelpalette#blokdust",
     "r.js": "~2.1.16",
     "RecorderJS": "lukephills/Recorderjs#master",
-    "text": "requirejs-text#~2.0.14",
+    "text": "requirejs-text#2.0.15",
     "tone": "BlokDust/Tone.js#master",
     "tweenjs": "~16.3.1",
-    "utils": "edsilv/utils"
+    "utils": "edsilv/utils#0.0.38"
   },
   "resolutions": {
     "nullstone": "~0.4.5",
