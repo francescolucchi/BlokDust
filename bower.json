@@ -6,7 +6,7 @@
     "exjs": "BSick7/exjs#0.4.0",
     "extensions": "edsilv/extensions#0.1.9",
     "intersection": "BlokDust/intersection",
-    "key-codes": "edsilv/key-codes#0.0.5",
+    "key-codes": "francescolucchi/key-codes#v0.0.5a",
     "lzma": "nmrugg/LZMA-JS",
     "minerva": "~0.7.3",
     "nullstone": "https://github.com/wsick/nullstonejs.git#~0.4.5",
