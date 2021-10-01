@@ -13,6 +13,7 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-text-replace');
     grunt.loadNpmTasks('grunt-typescript');
     grunt.loadNpmTasks('grunt-sync');
+    grunt.loadNpmTasks('grunt-gh-pages');
 
     version(grunt);
 
@@ -373,6 +374,13 @@ module.exports = function (grunt) {
                     }
                 ]
             }
+        },
+
+        'gh-pages': {
+            options: {
+                base: 'dist'
+            },
+            src: ['**']
         }
     });
 
